@@ -36,8 +36,6 @@ En esta sección se encuentran los tutoriales desarrollados durante el proyecto 
 
 <div align="center">
 
-### ✨ Gracias por visitar este repositorio ✨
 
-**Proyecto desarrollado para la materia Global Videos**
 
 </div>

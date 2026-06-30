@@ -1,6 +1,6 @@
-# 🌍 Global Videos
+# 🌍 Global 
 
-> Repositorio que reúne los videos y evidencias desarrolladas durante el proyecto **Global Videos**.
+> Repositorio que reúne los videos y evidencias desarrolladas durante el **Global**.
 
 ---
 
@@ -17,7 +17,7 @@
 
 # 📁 Descripción del Proyecto
 
-**Global Videos** es un proyecto académico en el que se desarrollan recursos multimedia con el objetivo de documentar el proceso de aprendizaje en la materia. Este repositorio reúne los videos y evidencias organizados por bloques de lecciones, facilitando la consulta y el seguimiento de cada actividad realizada durante el curso.
+**Global ** es un proyecto académico en el que se desarrollan recursos multimedia con el objetivo de documentar el proceso de aprendizaje en la materia. Este repositorio reúne los videos y evidencias organizados por bloques de lecciones, facilitando la consulta y el seguimiento de cada actividad realizada durante el curso.
 
 ---
 
@@ -25,7 +25,7 @@
 
 | 📂 Recurso | 📝 Descripción | 🔗 Enlace |
 |------------|---------------|-----------|
-| **Videos del Proyecto** | Carpeta que reúne todos los videos elaborados durante el proyecto **Global Videos**, donde se muestran los procedimientos, actividades y resultados obtenidos en cada práctica. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
+| **Videos del Proyecto** | Carpeta que reúne todos los videos elaborados durante el proyecto **Global**, donde se muestran los procedimientos, actividades y resultados obtenidos en cada práctica. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
 
 ---
 

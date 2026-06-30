@@ -1,10 +1,10 @@
 # 🌍 Global Videos
 
-> Repositorio que reúne la documentación, tutoriales y evidencias desarrolladas durante el  **Global**.
+> Repositorio que reúne los videos y evidencias desarrolladas durante el proyecto **Global Videos**.
 
 ---
 
-# 👩‍🎓 Información del Estudiante
+# 👩‍🎓 Información de la Estudiante
 
 | 📌 Dato | 📖 Información |
 |---------|----------------|
@@ -15,44 +15,43 @@
 
 ---
 
-# 📚 Recursos Generales
+# 📁 Descripción del Proyecto
+
+**Global Videos** es un proyecto académico en el que se desarrollan recursos multimedia con el objetivo de documentar el proceso de aprendizaje en la materia. Este repositorio reúne los videos y evidencias organizados por bloques de lecciones, facilitando la consulta y el seguimiento de cada actividad realizada durante el curso.
+
+---
+
+# 🎥 Videos del Proyecto
 
 | 📂 Recurso | 📝 Descripción | 🔗 Enlace |
 |------------|---------------|-----------|
-| **Documentación de Tutoriales** | Contiene la documentación completa de los tutoriales elaborados durante el proyecto, incluyendo procedimientos, capturas de pantalla y evidencias de las actividades realizadas. | [📄 Ver documentación](https://drive.google.com/drive/folders/1ZDBBXMM-pAAAOjmT-wqcmbcbQqMgcNLh?usp=sharing) |
-| **Videos del Proyecto** | Carpeta que reúne los videos desarrollados para el proyecto **Global Videos**, mostrando el proceso, desarrollo y resultados de cada actividad. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
+| **Videos del Proyecto** | Carpeta que reúne todos los videos elaborados durante el proyecto **Global Videos**, donde se muestran los procedimientos, actividades y resultados obtenidos en cada práctica. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
 
 ---
 
 # 📖 Bloques de Lecciones
 
-En esta sección se agregarán las evidencias correspondientes a cada bloque de lecciones del curso.
+En esta sección se encuentran organizadas las evidencias correspondientes a cada bloque de lecciones del curso.
 
 | 📚 Bloque de Lecciones | 🔗 Enlace |
 |------------------------|-----------|
-| **Bloque 1** (Lecciones 1 a 5) | https://drive.google.com/drive/folders/1O7ffEP0MqPmBh-4kEKSU7iY1n6do8YS4?usp=sharing |
-| **Bloque 2** (Lecciones 6 a 10) | https://drive.google.com/drive/folders/1AdMjHrpsfqpvvsg4qbfYVEoPOuzYTx4q?usp=sharing |
-| **Bloque 3** (Lecciones 11 a 15) | https://drive.google.com/drive/folders/1g_ufnzmHxGnZ1l2u9hsCQHfhEKA-sQye?usp=sharing |
-| **Bloque 4** (Lecciones 16 a 20) | https://drive.google.com/drive/folders/1921LpRl1DnQGf14jIaGw_NHXPmBa9swu?usp=sharing |
-| **Bloque 5** (Lecciones 21 a 25) | https://drive.google.com/drive/folders/1N9SJ_E1oVOsCVUhxp2cMoo1NAninwP6L?usp=sharing |
-| **Bloque 6** (Lecciones 26 a 30) | https://drive.google.com/drive/folders/1wAzOlUJVGBVQGBU_LTUTR6J3h75ov0Au?usp=sharing |
-| **Bloque 7** (Lecciones 31 a 33) | |
-| **Bloque 8** (Lecciones 34 a 36) | |
-
----
-
-# 📁 Descripción del Proyecto
-
-**Global Videos** es un proyecto académico en el que se desarrollan tutoriales y recursos multimedia con el objetivo de documentar el proceso de aprendizaje en la materia. El repositorio reúne documentación, videos y evidencias organizadas por bloques de lecciones para facilitar su consulta.
+| **Bloque 1** (Lecciones 1 a 5) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1O7ffEP0MqPmBh-4kEKSU7iY1n6do8YS4?usp=sharing) |
+| **Bloque 2** (Lecciones 6 a 10) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1AdMjHrpsfqpvvsg4qbfYVEoPOuzYTx4q?usp=sharing) |
+| **Bloque 3** (Lecciones 11 a 15) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1g_ufnzmHxGnZ1l2u9hsCQHfhEKA-sQye?usp=sharing) |
+| **Bloque 4** (Lecciones 16 a 20) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1921LpRl1DnQGf14jIaGw_NHXPmBa9swu?usp=sharing) |
+| **Bloque 5** (Lecciones 21 a 25) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1N9SJ_E1oVOsCVUhxp2cMoo1NAninwP6L?usp=sharing) |
+| **Bloque 6** (Lecciones 26 a 30) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1wAzOlUJVGBVQGBU_LTUTR6J3h75ov0Au?usp=sharing) |
+| **Bloque 7** (Lecciones 31 a 33) | Pendiente |
+| **Bloque 8** (Lecciones 34 a 36) | Pendiente |
 
 ---
 
 <div align="center">
 
+## 🎓 Universidad Tecnológica del Norte de Guanajuato
 
-**Universidad Tecnológica del Norte de Guanajuato**  
-**Entornos Virtuales y Negocios Digitales**
+**Carrera:** Entornos Virtuales y Negocios Digitales
 
-⭐ *Si este repositorio te fue útil, no olvides darle una estrella.*
+⭐ *Repositorio del proyecto Global Videos.*
 
 </div>

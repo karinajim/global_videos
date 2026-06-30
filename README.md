@@ -26,6 +26,7 @@
 | 📂 Recurso | 📝 Descripción | 🔗 Enlace |
 |------------|---------------|-----------|
 | **Videos del Proyecto** | Carpeta que reúne todos los videos elaborados durante el proyecto **Global**, donde se muestran los procedimientos, actividades y resultados obtenidos en cada práctica. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
+| **Modelo de Negocios** | Hotel Defense es un juego freemium donde monetizas mediante anuncios recompensados y microtransacciones, ofreciendo ventajas estratégicas para proteger el hotel. | [📁 Ver carpeta]([https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing](https://drive.google.com/drive/folders/1uHyuHd0KujAWszOxfY9Wl1rAbs7LvNed?usp=sharing)) |
 
 ---
 
@@ -41,8 +42,8 @@ En esta sección se encuentran organizadas las evidencias correspondientes a cad
 | **Bloque 4** (Lecciones 16 a 20) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1921LpRl1DnQGf14jIaGw_NHXPmBa9swu?usp=sharing) |
 | **Bloque 5** (Lecciones 21 a 25) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1N9SJ_E1oVOsCVUhxp2cMoo1NAninwP6L?usp=sharing) |
 | **Bloque 6** (Lecciones 26 a 30) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1wAzOlUJVGBVQGBU_LTUTR6J3h75ov0Au?usp=sharing) |
-| **Bloque 7** (Lecciones 31 a 33) | Pendiente |
-| **Bloque 8** (Lecciones 34 a 36) | Pendiente |
+| **Bloque 7** (Lecciones 31 a 33) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1NQwYOmxKCcslCexfLK8zAI200_2MMLXE?usp=sharing)|
+| **Bloque 8** (Lecciones 34 a 36) | [📁 Ver carpeta](https://drive.google.com/drive/folders/1rkrwMKcWYeGYzgt0Gjz1XiAq4TemSqh6?usp=sharing) |
 
 ---
 

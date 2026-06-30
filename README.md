@@ -26,8 +26,7 @@
 | 📂 Recurso | 📝 Descripción | 🔗 Enlace |
 |------------|---------------|-----------|
 | **Videos del Proyecto** | Carpeta que reúne todos los videos elaborados durante el proyecto **Global**, donde se muestran los procedimientos, actividades y resultados obtenidos en cada práctica. | [🎥 Ver videos](https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing) |
-| **Modelo de Negocios** | Hotel Defense es un juego freemium donde monetizas mediante anuncios recompensados y microtransacciones, ofreciendo ventajas estratégicas para proteger el hotel. | [📁 Ver carpeta]([https://drive.google.com/drive/folders/1XGlaSM7NcamoeKMt4myctJAebHUzt0Ub?usp=sharing](https://drive.google.com/drive/folders/1uHyuHd0KujAWszOxfY9Wl1rAbs7LvNed?usp=sharing)) |
-
+| **Modelo de Negocios** | Hotel Defense es un juego freemium donde monetizas mediante anuncios recompensados y microtransacciones, ofreciendo ventajas estratégicas para proteger el hotel. |  [📁 Ver carpeta]([https://drive.google.com/drive/folders/1O7ffEP0MqPmBh-4kEKSU7iY1n6do8YS4?usp=sharing](https://drive.google.com/drive/folders/1uHyuHd0KujAWszOxfY9Wl1rAbs7LvNed?usp=sharing) |
 ---
 
 # 📖 Bloques de Lecciones
